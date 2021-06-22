@@ -1,0 +1,17 @@
+body{
+    background-size:cover;
+    background-position:center;
+}
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    background-color:darkblue;
+    color:white;
+}
+#status{
+    font-size:20px;
+    background-color: pink;
+    color:white;
+}
+
